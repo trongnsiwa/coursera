@@ -4,5 +4,5 @@
 - This is my spectifications and certificates on Coursera Online Courses.
 
 <p align="center">
-  <img src="https://taiwandiary.vn/wp-content/uploads/2019/09/Tusx7yTn_400x400.jpg">
+  <img src="https://media.bitdegree.org/storage/media/images/coursera-5f60affee9323.o.png" height="330" width="200">
 </p>
